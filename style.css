@@ -1,0 +1,29 @@
+.container {
+    width: 50%;
+    margin: 20px auto 0px auto;
+}
+
+.removed{
+    color: rgb(220,20,60);
+}
+
+.removed label{
+    text-decoration: line-through;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+body{
+    background-color: rgb(255,217,223);
+}
+
+h3{
+    color:rgb(255,20,147);
+    font-family:Optima,Arial, sans-serif;
+}
+
+em{
+    color:rgb(255,20,147);
+}
